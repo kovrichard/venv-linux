@@ -6,7 +6,7 @@ If you do not have virtualenv installed, you can do it with
 
 `apt install python3-venv`
 
-Maybe this is also needed
+And
 
 `python3 -m pip install --user virtualenv`
 
@@ -21,3 +21,11 @@ properly.
 
 After completing, the virtual environment is activated and the
 path to the python excutable is printed out to check success.
+
+To stop the environment, you should type
+
+`deactivate` from the folder, where you set it up.
+
+To start it again, use
+
+`source env/bin/activate`
