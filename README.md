@@ -24,7 +24,9 @@ path to the python excutable is printed out to check success.
 
 To stop the environment, you should type
 
-`deactivate` from the folder, where you set it up.
+`deactivate`
+
+from the folder, where you set it up.
 
 To start it again, use
 
